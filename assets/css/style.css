@@ -1,17 +1,28 @@
+body{
+	background-color: #efefef;
+}
 .jumbotron{
 	font-size: 40px;
 	padding-bottom: 20px;
 	padding-top: 20px;
+	font-family: 'Bungee Hairline', cursive;
+	font-weight: bold;
+	background-color: #caebf2;
+	color: #a9a9a9;
 }
 #addTrainBtn {
 	font-weight: bold;
+	background-color: #a9a9a9;
+	color: #caebf2;
+	font-family: 'Assistant', sans-serif;
 }
 .panel {
 	margin-top: 25px;
 }
 .panel-heading {
 	font-weight: bold;
+	font-family: 'Assistant', sans-serif;
 }
-/*#trainSched {
-	border-bottom: solid;
-}*/
+label {
+	font-family: 'Assistant', sans-serif;
+}
